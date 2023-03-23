@@ -1,0 +1,2 @@
+# SQL-SSMS-
+DDL,DML and DQL
